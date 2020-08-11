@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large Datasets
+Basics.tsv
+Crew.tsv
+Ratings.tsv
+Titles.tsv
